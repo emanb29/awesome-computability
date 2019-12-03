@@ -27,9 +27,12 @@ As a rule of thumb, "accidentally" turing-complete systems are _discovered_, whi
 
 ### Accidental
 - [Intel Memory Management Unit (MMU) fault handler](https://github.com/jbangert/trapcc)
+- [Border Gateway Protocol](https://vanbever.eu/pdfs/vanbever_turing_icnp_2013.pdf)
 
 ### Incidental
 - [Magic: The Gathering](https://arxiv.org/abs/1904.09828)
+- [Minecraft](https://gaming.stackexchange.com/questions/20219/is-minecraft-turing-complete)
+- [Conway's Game of Life](https://www.ics.uci.edu/~welling/teaching/271fall09/Turing-Machine-Life.pdf)
 
 ## Contribute
 
