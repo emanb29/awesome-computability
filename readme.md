@@ -29,7 +29,7 @@ As a rule of thumb, "accidentally" turing-complete systems are _discovered_, whi
 - [Intel Memory Management Unit (MMU) fault handler](https://github.com/jbangert/trapcc)
 
 ### Incidental
-
+- [Magic: The Gathering](https://arxiv.org/abs/1904.09828)
 
 ## Contribute
 
