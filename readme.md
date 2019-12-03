@@ -26,7 +26,7 @@ We distinguish "accidental" and "incidental" turing-completeness:
 As a rule of thumb, "accidentally" turing-complete systems are _discovered_, while "incidentally" turing-complete systems are _invented_.
 
 ### Accidental
-
+- [Intel Memory Management Unit (MMU) fault handler](https://github.com/jbangert/trapcc)
 
 ### Incidental
 
