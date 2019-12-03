@@ -5,16 +5,15 @@
 
 ## Contents
 
-- [Section](#section)
+- [Compilation](#compilaiton)
 - [Turing Completeness](#turing-completeness)
 
 
-## Section
+## Compilation
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [DOOM, compiled using only MOV instructions](https://github.com/xoreaxeaxeax/movfuscator/tree/master/validation/doom)
 
 
 ## Turing Completeness
@@ -27,11 +26,9 @@ As a rule of thumb, "accidentally" turing-complete systems are _discovered_, whi
 
 ### Accidental
 
-These are systems that were discovered to be turing-complete.
 
 ### Incidental
 
-These are systems that were "tricked" into turing-completeness.
 
 ## Contribute
 
