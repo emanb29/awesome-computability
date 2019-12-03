@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Compilation](#compilaiton)
+- [Compilation](#compilation)
 - [Turing Completeness](#turing-completeness)
 
 
