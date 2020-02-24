@@ -16,13 +16,15 @@
 
 
 ## Turing Completeness
-Systems that can be tricked into turing-completeness
+Systems that can be tricked into encoding a universal turing machine
 
 - [Intel Memory Management Unit (MMU) fault handler](https://github.com/jbangert/trapcc)
 - [Border Gateway Protocol](https://vanbever.eu/pdfs/vanbever_turing_icnp_2013.pdf)
 - [Magic: The Gathering](https://arxiv.org/abs/1904.09828)
 - [Minecraft](https://gaming.stackexchange.com/questions/20219/is-minecraft-turing-complete)
 - [Conway's Game of Life](https://www.ics.uci.edu/~welling/teaching/271fall09/Turing-Machine-Life.pdf)
+- [Rule 110](http://wpmedia.wolfram.com/uploads/sites/13/2018/02/15-1-1.pdf)
+- [x86 MOV with one `jmp start`](http://web.archive.org/web/20190331191157/https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf)
 
 ## Contribute
 
